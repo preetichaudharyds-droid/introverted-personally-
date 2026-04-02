@@ -68,10 +68,3 @@ Being introverted is not a weakness — it is a powerful personality trait. Intr
 
 ---
 
-## 📎 About This Repository
-
-This README highlights the traits, strengths, and growth strategies for introverted personalities. It can be used for self-awareness, personal development, or educational purposes.
-
----
-
-⭐ If you found this helpful, feel free to star the repo!
