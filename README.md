@@ -1,4 +1,4 @@
-# 🌿 Introverted Personality
+# Introverted Personality
 
 ## 📌 Overview
 
