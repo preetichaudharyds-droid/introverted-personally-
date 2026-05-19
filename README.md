@@ -4,7 +4,6 @@
 
 An introverted personality is characterized by a preference for calm, minimally stimulating environments. Introverts tend to feel more energized by spending time alone or in small groups rather than in large social gatherings.
 
----
 
 ## 🧠 Key Traits of Introverts
 
@@ -15,7 +14,6 @@ An introverted personality is characterized by a preference for calm, minimally 
 * Think before speaking
 * Feel drained after excessive social interaction
 
----
 
 ## 💡 Strengths of Introverts
 
